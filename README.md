@@ -1,7 +1,7 @@
 #### Hi there 🤗
 Welcome to github __kkwwym__
 
-My name is [Blair](https://www.linkedin.com/in/kkwwym/). I am an enthusiast about data and figures who earned a bachelor degree in statistics and also got a master’s degree in applied mathematics.
+My name is Blair. I am an enthusiast about data and figures who earned a bachelor degree in statistics and also got a master’s degree in applied mathematics.
 
 This is my [portfolio](https://github.com/kkwwym/Portfolio) which I compile Data Science and Data Analysis projects I have done for previous reasearch, self-learning and issue of interest. Continually updated for learning and implementing on machine leanrning or other field...
 
